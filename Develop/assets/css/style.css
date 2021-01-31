@@ -61,7 +61,7 @@ p {
     background-position: center;
 }
 
-/* main content */
+/* main content styling */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -96,6 +96,7 @@ p {
     font-size: 36px;
 }
 
+/* aside section styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
